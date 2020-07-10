@@ -4,6 +4,8 @@
 
 Selenium plugin library based on image difference recognition and page intelligent exploration.
 
+The origin of this library is to make UI automatic testing no longer need to deal with page elements, but directly use real visual differences to judge whether the test results meet the expectations.
+
 # installation
     
     pip install -r requirements.txt
